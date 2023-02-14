@@ -1,4 +1,4 @@
-# Control a stepper motor with a Raspberry Pi Pico
+# Detect motions with a Raspberry Pi Pico
 
 ![https://diy-home.org/](misc/assembly_bb.png)
 
